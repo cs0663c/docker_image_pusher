@@ -24,3 +24,4 @@ ngoduykhanh/wireguard-ui:latest
 linuxserver/wireguard:latest
 ghcr.io/wg-easy/wg-easy
 sanjusss/aliyun-ddns
+docker.io/xiaoyaliu/alist:latest
